@@ -49,9 +49,9 @@
 
 ### 📊 My GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-B765&show_icons=true&theme=tokyonight&count_private=true" alt="Miguel-B765" />
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=Miguel-B765&show_icons=true&theme=tokyonight&count_private=true" alt="Miguel-B765" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-B765&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=Miguel-B765&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
