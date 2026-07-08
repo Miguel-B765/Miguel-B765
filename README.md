@@ -48,10 +48,16 @@
 ---
 
 ### 📊 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=Miguel-B765&show_icons=true&theme=tokyonight&count_private=true" alt="Miguel-B765" />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github" alt="PRs Welcome" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-azure?style=for-the-badge&logo=github" alt="Maintained" />
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge" alt="Open Source" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=Miguel-B765&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+---
+
+### 💻 My Coding Philosophy
+- ⚡ **Clean Code:** Siempre priorizando la legibilidad, modularidad y las buenas prácticas de arquitectura.
+- 🛠️ **Problem Solving:** Enfocado en optimizar el rendimiento y resolver lógicas complejas de manera eficiente.
+- 📚 **Continuous Learning:** Constantemente explorando nuevas herramientas, frameworks y entornos cloud para mantenerme a la vanguardia.
