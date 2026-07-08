@@ -2,7 +2,7 @@
 <h3 align="center">Systems Engineering Student & Software Developer from Guatemala 🇬🇹</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=miguel-b765&label=Profile%20views&color=0e75b6&style=flat" alt="miguel-b765" /> 
+  <img src="https://komarev.com/ghpvc/?username=Miguel-B765&label=Profile%20views&color=0e75b6&style=flat" alt="Miguel-B765" /> 
 </p>
 
 ---
@@ -29,7 +29,7 @@
   <!-- Otras Tecnologías de tu CV -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
@@ -49,13 +49,9 @@
 
 ### 📊 My GitHub Stats:
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-b765&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="miguel-b765" width="45%"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=miguel-b765&show_icons=true&locale=en&theme=tokyonight" alt="miguel-b765" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-B765&show_icons=true&theme=tokyonight&count_private=true" alt="Miguel-B765" />
 </p>
 
-<br clear="both"/>
-<br/>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-b765&theme=tokyonight" alt="miguel-b765" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-B765&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
