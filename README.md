@@ -11,11 +11,11 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <!-- Estadísticas Generales Dinámicas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-B765&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
+  <!-- Estadísticas Generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-B765&show_icons=true&theme=dracula&count_private=true" height="150" alt="Estadísticas de Miguel" />
   
-  <!-- Lenguajes Más Usados Dinámicos -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-B765&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
+  <!-- Lenguajes Más Usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-B765&layout=compact&langs_count=5&theme=dracula" height="150" alt="Lenguajes de Miguel" />
 </div>
 
 <hr />
@@ -70,10 +70,8 @@
 
 ### 🌐 Contacto
 
-<div data-importer="socials" align="left">
-  <a href="mailto:miguelkanek@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
+<div align="left">
+  📧 <strong>Correo:</strong> <a href="mailto:miguelkanek@gmail.com">miguelkanek@gmail.com</a>
 </div>
 
 <hr />
@@ -81,6 +79,5 @@
 ### 🐍 Contribuciones
 
 <div align="center">
-  <!-- Apunta a la rama output que suele crear el bot del snake -->
   <img src="https://raw.githubusercontent.com/Miguel-B765/Miguel-B765/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
