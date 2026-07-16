@@ -11,11 +11,11 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <!-- Estadísticas Generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-B765&show_icons=true&theme=dracula&count_private=true" height="150" alt="Estadísticas de Miguel" />
+  <!-- Estadísticas Generales (Servidor Espejo Estable) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Miguel-B765&show_icons=true&theme=dracula&count_private=true" height="150" alt="Estadísticas de Miguel" />
   
-  <!-- Lenguajes Más Usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-B765&layout=compact&langs_count=5&theme=dracula" height="150" alt="Lenguajes de Miguel" />
+  <!-- Lenguajes Más Usados (Servidor Espejo Estable) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Miguel-B765&layout=compact&langs_count=5&theme=dracula" height="150" alt="Lenguajes de Miguel" />
 </div>
 
 <hr />
