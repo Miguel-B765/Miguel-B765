@@ -71,9 +71,11 @@
 ###  Certificaciones & Insignias
 
 <div align="left">
-  <a href="https://www.credly.com/badges/ff10f0b7-0c89-434e-bcaf-b2d9044567cf/public_url" target="_blank">
-    <img src="https://images.credly.com/images/ff10f0b7-0c89-434e-bcaf-b2d9044567cf/AWS-Academy-Graduate-Machine-Learning-Foundations.png" width="130" alt="AWS Academy Graduate - Machine Learning Foundations" />
-  </a>
+<a href="https://www.credly.com/badges/ff10f0b7-0c89-434e-bcaf-b2d9044567cf/public_url" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" alt="AWS Badge" />
+  <br />
+  <strong>AWS Academy Graduate - Machine Learning Foundations</strong>
+</a>
 </div>
 
 <hr />
