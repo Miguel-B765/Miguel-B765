@@ -68,7 +68,7 @@
 
 <hr />
 
-###  Certificaciones & Insignias
+###  Certificaciones e Insignias
 
 <div align="left">
 <a href="https://www.credly.com/badges/ff10f0b7-0c89-434e-bcaf-b2d9044567cf/public_url" target="_blank">
