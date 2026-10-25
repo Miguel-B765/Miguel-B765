@@ -8,7 +8,7 @@
 
 <hr />
 
-### 📊 Mis Estadísticas de GitHub
+###  Mis Estadísticas de GitHub
 
 <div align="center">
   <!-- Estadísticas Generales (Servidor Espejo Estable) -->
@@ -20,7 +20,7 @@
 
 <hr />
 
-### 🛠️ Tecnologías
+###  Tecnologías
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -68,15 +68,25 @@
 
 <hr />
 
-### 🌐 Contacto
+###  Certificaciones & Insignias
 
 <div align="left">
-  📧 <strong>Correo:</strong> <a href="mailto:miguelkanek@gmail.com">miguelkanek@gmail.com</a>
+  <a href="https://www.credly.com/badges/ff10f0b7-0c89-434e-bcaf-b2d9044567cf/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/ff10f0b7-0c89-434e-bcaf-b2d9044567cf/image.png" width="130" alt="AWS Academy Graduate - Machine Learning Foundations" />
+  </a>
 </div>
 
 <hr />
 
-### 🐍 Contribuciones
+###  Contacto
+
+<div align="left">
+   <strong>Correo:</strong> <a href="mailto:miguelkanek@gmail.com">miguelkanek@gmail.com</a>
+</div>
+
+<hr />
+
+###  Contribuciones
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Miguel-B765/Miguel-B765/output/github-contribution-grid-snake.svg" alt="Snake animation" />
