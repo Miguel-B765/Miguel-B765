@@ -72,7 +72,7 @@
 
 <div align="left">
   <a href="https://www.credly.com/badges/ff10f0b7-0c89-434e-bcaf-b2d9044567cf/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/ff10f0b7-0c89-434e-bcaf-b2d9044567cf/image.png" width="130" alt="AWS Academy Graduate - Machine Learning Foundations" />
+    <img src="https://images.credly.com/images/ff10f0b7-0c89-434e-bcaf-b2d9044567cf/AWS-Academy-Graduate-Machine-Learning-Foundations.png" width="130" alt="AWS Academy Graduate - Machine Learning Foundations" />
   </a>
 </div>
 
